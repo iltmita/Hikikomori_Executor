@@ -1,5 +1,2 @@
-# Hikikomori injector
-
-
-
+# Nothing
 
